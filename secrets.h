@@ -2,9 +2,9 @@
 #define SECRET_H
 
 // Your declarations go here
-const char* ssid = "Robert's iPhone Air";
-const char* password = "12345678";
-//https://maps.googleapis.com/maps/api/geocode/json?address=Troy,+NY&key=AIzaSyBgszJ21TjOeTkPKD2cBVyVyE84-HwEAdk 
-const char* geocodingKey = "AIzaSyBgszJ21TjOeTkPKD2cBVyVyE84-HwEAdk";
+const char* ssid = "";
+const char* password = "";
+
+const char* geocodingKey = "";
 
 #endif // SECRET_H
